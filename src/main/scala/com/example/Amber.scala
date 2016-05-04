@@ -13,8 +13,8 @@ case class MinedAmber(country: String, size: Int) extends Amber
 
 object Amber {
   val ambers = List[Amber](
-    MinedAmber(country = "Russia", size = 5),
-    MinedAmber(country = "Poland", size = 20),
+    MinedAmber(country = "Spray Sample 1", size = 5),
+    MinedAmber(country = "Scala Project", size = 20),
     BalticAmber(size = 10)
   )
 

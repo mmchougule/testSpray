@@ -14,7 +14,7 @@ object ScalaBay extends App with SimpleRoutingApp {
     get {
       path("hello") {
         complete {
-          "Hello me!"
+          "Hello here!"
         }
       }
     } ~
