@@ -27,9 +27,12 @@ Follow these steps to get started:
 
 6. Browse to [http://localhost:8080]
 	Example calls
-	6.1 http://localhost:8080/hello
-	6.2 http://localhost:8080/list/all
-	6.3 http://localhost:8080/amber/2/details
+
+        > http://localhost:8080/hello
+
+        > http://localhost:8080/list/all
+
+        > http://localhost:8080/amber/2/details
 
 7. Stop the application:
 
